@@ -17,6 +17,9 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 <p align="center">
   <img src="./assets/images/projects/project5.png" alt="GuideEra" width="400"/>
 </p>
+<p align="center">
+  <img src="./assets/images/mainpage.png" alt="GuideEra" width="400"/>
+</p>
 
 
 <h2>📬 Contact</h2>
